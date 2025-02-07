@@ -7,5 +7,9 @@
 🤝 Aside from personal projects, I love collaborating with others! I build full-stack web apps at Uptick, a startup based in NY. I also contribute to open-source projects such as Reflex, a Python web framework I use at work. 
 
 ## Skills
+### Languages
 [![My Skills](https://skillicons.dev/icons?i=py,js,html,css,java,cpp)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=react,fastapi,flask,postgres,mongodb,redis,docker)](https://skillicons.dev)
+### Frameworks and Libraries
+[![My Skills](https://skillicons.dev/icons?i=react,fastapi,flask)](https://skillicons.dev)
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,redis,docker)](https://skillicons.dev)
