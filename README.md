@@ -8,4 +8,4 @@
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=py,js,html,css,java,cpp)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=react,flask,mongodb,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,fastapi,flask,postgres,mongodb,redis,docker)](https://skillicons.dev)
