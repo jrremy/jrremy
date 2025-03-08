@@ -13,6 +13,6 @@
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=py,js,ts,html,css,java,cpp)](https://skillicons.dev)
 ### Frameworks and Libraries
-[![My Skills](https://skillicons.dev/icons?i=react,fastapi,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,fastapi,flask,nextjs)](https://skillicons.dev)
 ### Tools
-[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,redis,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,supabase,mongodb,redis,docker,aws)](https://skillicons.dev)
