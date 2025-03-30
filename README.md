@@ -8,6 +8,13 @@
 
 ## What I'm Currently Working On
 - [Stock + Crypto Portfolio Manager](https://github.com/jrremy/stock-crypto-portfolio-manager)
+  - Backend business logic
+  - Setting up the news scraper
+## What I'm Improving / Future Goals
+- [SemantifyHTML](https://github.com/jrremy/semantifyHTML)
+  - Migrate to TypeScript
+  - Get off localhost and deploy!
+  - Implement an AI model that modularizes tag transformation
 
 ## Skills
 ### Languages
